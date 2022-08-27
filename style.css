@@ -1,7 +1,8 @@
 body{
     font-family: 'Nunito', sans-serif;
     text-align: center;
-    background-color: #C69696;
+    background: linear-gradient(214deg, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+
 }
 
 /* SCROLLBAR */
@@ -63,13 +64,13 @@ a{
 }
 
 a:hover{
-    color: #815f5f;
+    color: #94bbe9;
     font-style: italic;
 }
 
 i{
     margin-right: 20px;
-    color: #815f5f;
+    color: #ffffff;
 }
 
 footer{
