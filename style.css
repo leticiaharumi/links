@@ -1,8 +1,9 @@
 body{
     font-family: 'Nunito', sans-serif;
     text-align: center;
-    background: linear-gradient(214deg, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
-
+    background: url("./img/gradient.jpg");
+    width: auto;
+    height: auto;
 }
 
 /* SCROLLBAR */
@@ -15,7 +16,7 @@ body{
 }
 
 ::-webkit-scrollbar-thumb{
-    background-color: #d1b3b7;
+    background-color: rgb(240, 211, 224);
     border-radius: 10px;
 }
 
